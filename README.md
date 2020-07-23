@@ -1,2 +1,3 @@
 # CSE465_Project
-Project Title: Machine Translation on english text to bengali text.
+<h2>Project Title<h2>
+  <p>Machine Translation on english text to bengali text.<p>
